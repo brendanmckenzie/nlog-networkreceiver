@@ -1,9 +1,9 @@
 ﻿using System;
+using System.Configuration;
 using System.IO;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
-using System.Configuration;
 
 namespace NLog.NetworkTarget
 {
