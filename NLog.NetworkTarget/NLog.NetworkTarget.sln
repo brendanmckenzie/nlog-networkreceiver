@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLog.NetworkTarget", "NLog.NetworkTarget\NLog.NetworkTarget.csproj", "{01FD6C64-7EAA-4E05-ADD8-B781C03327DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLog.NetworkTarget.Example", "NLog.NetworkTarget.Example\NLog.NetworkTarget.Example.csproj", "{8B87C657-B8D6-4C2B-9F6D-56CF1F37DE87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01FD6C64-7EAA-4E05-ADD8-B781C03327DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FD6C64-7EAA-4E05-ADD8-B781C03327DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01FD6C64-7EAA-4E05-ADD8-B781C03327DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01FD6C64-7EAA-4E05-ADD8-B781C03327DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B87C657-B8D6-4C2B-9F6D-56CF1F37DE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B87C657-B8D6-4C2B-9F6D-56CF1F37DE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B87C657-B8D6-4C2B-9F6D-56CF1F37DE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B87C657-B8D6-4C2B-9F6D-56CF1F37DE87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
